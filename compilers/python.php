@@ -2,7 +2,7 @@
 	$CC="python";
 	//$out="./a.out";
 	$code=$code;
-	$input=$input;
+	$input=$input1;
 	$filename_code="main.py";
 	$filename_in="input.txt";
 	$filename_error="error.txt";
