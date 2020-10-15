@@ -1,8 +1,7 @@
 <?php
 	$CC="gcc";
 	$out="timeout 10s ./a.out";
-	$code=$code;
-	$input=$input1;
+	
 	$filename_code="main.c";
 	$filename_in="input.txt";
 	$filename_error="error.txt";

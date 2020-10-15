@@ -1,8 +1,7 @@
 <?php
 	$CC="javac";
 	$out="timeout 10s java Main";
-	$code=$code;
-	$input=$input1;
+	
 	$filename_code="Main.java";
 	$filename_in="input.txt";
 	$filename_error="error.txt";

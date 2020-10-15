@@ -14,7 +14,7 @@ if(isset($_POST['code'])){
          
          $code = $_POST['code'];
          $lang = $_POST['lang'];
-         $input1 = $_POST['input'];
+         $input = $_POST['input'];
     
     	
 
@@ -49,7 +49,7 @@ if(isset($_POST['code'])){
 					include("compilers/python.php");
 					break;
 				}
-				echo $output;
+				
         
 			} 
     
