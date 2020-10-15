@@ -14,7 +14,7 @@ if(isset($_POST['code'])){
          
          $code = $_POST['code'];
          $lang = $_POST['lang'];
-         $input = $_POST['input'];
+         $input1 = $_POST['input'];
     
     	
 
